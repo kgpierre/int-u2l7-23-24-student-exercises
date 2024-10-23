@@ -1,0 +1,14 @@
+{
+  "name": "int-u2l7-23-24-student-exercises-1",
+  "version": "1.0.0",
+  "description": "## 🎯 Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
